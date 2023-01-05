@@ -7,7 +7,7 @@
   (title_block
     (title "LCD Backplate with Stemma QT connector")
     (date "2022-12-23")
-    (rev "1.0")
+    (rev "1.0.0")
     (company "Resterampe Berlin")
     (comment 3 "https://creativecommons.org/licenses/by-nc/4.0")
     (comment 4 "License CC BY-NC 4.0")
