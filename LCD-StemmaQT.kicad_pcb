@@ -559,9 +559,9 @@
       (net 5 "/SDA") (pinfunction "SDA") (pintype "bidirectional") (tstamp dfd84d24-2e6a-4986-895b-31c81b12d00f))
     (pad "4" smd roundrect (at 1.5 -2 270) (size 0.6 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 4 "/SCL") (pinfunction "SCL") (pintype "input") (tstamp a9ecce73-03c1-49f8-a72e-9c6389b117ca))
-    (pad "MP" smd roundrect (at 2.8 1.875 270) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.208333)
+    (pad "MP" smd roundrect (at 2.8 1.875 270) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2083333333)
       (net 30 "unconnected-(J104-PadMP)") (pinfunction "MP") (pintype "no_connect") (tstamp a040d5b7-950e-4143-90a5-6d46a00331d4))
-    (pad "MP" smd roundrect (at -2.8 1.875 270) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.208333)
+    (pad "MP" smd roundrect (at -2.8 1.875 270) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2083333333)
       (net 30 "unconnected-(J104-PadMP)") (pinfunction "MP") (pintype "no_connect") (tstamp de1bae4b-a519-4e14-bdc0-a366ab6bed56))
     (model "/Users/markusnickels/Documents/KiCad/6.0/footprints/JST_SH_SM04B-SRSS.wrl"
       (offset (xyz 0 1.27 -0.5))
@@ -834,9 +834,9 @@
       (net 5 "/SDA") (pinfunction "SDA") (pintype "bidirectional") (tstamp 9f542f11-831e-476f-a268-e570173fd17a))
     (pad "4" smd roundrect (at 1.5 -2 90) (size 0.6 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 4 "/SCL") (pinfunction "SCL") (pintype "input") (tstamp 00aaaf6d-b48b-42f3-b946-3c8a98cd0294))
-    (pad "MP" smd roundrect (at -2.8 1.875 90) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.208333)
+    (pad "MP" smd roundrect (at -2.8 1.875 90) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2083333333)
       (net 29 "unconnected-(J101-PadMP)") (pinfunction "MP") (pintype "no_connect") (tstamp 81d50691-eb74-43dc-9fbe-d369aac25f21))
-    (pad "MP" smd roundrect (at 2.8 1.875 90) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.208333)
+    (pad "MP" smd roundrect (at 2.8 1.875 90) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2083333333)
       (net 29 "unconnected-(J101-PadMP)") (pinfunction "MP") (pintype "no_connect") (tstamp a0c94fa5-237f-41e7-bc19-adf18092b74b))
     (model "/Users/markusnickels/Documents/KiCad/6.0/footprints/JST_SH_SM04B-SRSS.wrl"
       (offset (xyz 0 1.27 -0.5))
